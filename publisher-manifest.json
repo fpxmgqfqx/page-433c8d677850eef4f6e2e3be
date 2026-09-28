@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "cb6a5895482bbb874a715027",
+  "owner": "fpxmgqfqx",
+  "repo": "page-433c8d677850eef4f6e2e3be",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "433c8d677850eef4f6e2e3be",
+      "a": "魔戒",
+      "b": "",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "",
+      "path": "index.html",
+      "hash": "80b3cad1c3687fe682a670aee061a419143ba192dac1d0f4708f00b6a2e69d41",
+      "content": {
+        "keyword1": "魔戒",
+        "keyword2": "",
+        "primary_entity": "魔戒",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "魔戒VPN提供优质高速网络加速服务，稳定可靠，支持多设备在线，立即访问官网客户端下载体验。",
+          "AI_DESCRIPTION": "魔戒VPN提供优质高速网络加速服务，稳定可靠，支持多设备在线，立即访问官网客户端下载体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --bg: #f8f4eb;\n            --accent: #ff6b35;\n            --text: #333;\n        }\n        * {\n            margin: 0;\n            padding: 0;\n            box-sizing: border-box;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;\n            background-color: var(--bg);\n            color: var(--text);\n            line-height: 1.7;\n        }\n        nav {\n            background: white;\n            padding: 1rem 0;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 100;\n        }\n        .nav-container {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 0 1rem;\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--accent);\n        }\n        .nav-links {\n            display: flex;\n            gap: 2rem;\n        }\n        .nav-links a {\n            color: var(--text);\n            text-decoration: none;\n            font-weight: 500;\n        }\n        main {\n            max-width: 1100px;\n            margin: 0 auto;\n            padding: 2rem 1rem;\n        }\n        h1 {\n            font-size: 2.8rem;\n            color: var(--accent);\n            text-align: center;\n            margin-bottom: 2rem;\n            font-weight: 700;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: #2c2c2c;\n            margin: 2.5rem 0 1.2rem;\n            padding-bottom: 0.8rem;\n            border-bottom: 3px solid var(--accent);\n        }\n        section {\n            background: white;\n            margin-bottom: 2rem;\n            padding: 2rem;\n            border-radius: 12px;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n        }\n        .intro-grid {\n            display: grid;\n            grid-template-columns: 1fr 1fr;\n            gap: 2rem;\n        }\n        @media (max-width: 768px) {\n            .intro-grid {\n                grid-template-columns: 1fr;\n            }\n        }\n        p {\n            margin-bottom: 1.2rem;\n            font-size: 1.05rem;\n        }\n        button {\n            background: var(--accent);\n            color: white;\n            border: none;\n            padding: 0.8rem 1.5rem;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 1rem;\n            width: 100%;\n            margin-top: 1rem;\n        }\n        button:hover {\n            background: #e55a2d;\n        }\n        details {\n            margin: 1.2rem 0;\n            background: #fff;\n            border-radius: 8px;\n            overflow: hidden;\n            border: 1px solid #ff6b35;\n        }\n        summary {\n            padding: 1.2rem;\n            font-size: 1.1rem;\n            font-weight: 600;\n            cursor: pointer;\n            background: #fffaf0;\n            display: flex;\n            align-items: center;\n            gap: 0.8rem;\n        }\n        summary::marker {\n            content: \"\";\n        }\n        .faq-answer {\n            padding: 1.2rem;\n            background: #fffaf0;\n        }\n        footer {\n            text-align: center;\n            padding: 2rem;\n            color: #666;\n            font-size: 0.95rem;\n        }\n        .cta {\n            text-align: center;\n            margin: 3rem 0;\n        }\n        .cta a {\n            background: var(--accent);\n            color: white;\n            padding: 1rem 2rem;\n            border-radius: 50px;\n            text-decoration: none;\n            font-weight: 600;\n            display: inline-block;\n        }\n    </style>\n\n\n    <nav>\n        <div class=\"nav-container\">\n            <div class=\"logo\">魔戒</div>\n            <div class=\"nav-links\">\n                <a href=\"#plans\">套餐</a>\n                <a href=\"#faq\">FAQ</a>\n                <a href=\"#about\">关于</a>\n            </div>\n        </div>\n    </nav>\n    <main>\n        <h1>魔戒</h1>\n        <section>\n            <h2>品牌简介</h2>\n            <p>魔戒VPN是一款专注于提供稳定网络加速服务的客户端工具，旨在帮助用户突破网络限制并提升上网体验。</p>\n        </section>\n        <section>\n            <h2>使用场景</h2>\n            <p>魔戒VPN适用于日常浏览、远程办公、在线娱乐以及跨国数据访问等场景。</p>\n        </section>\n        <section>\n            <h2>操作说明</h2>\n            <p>使用魔戒VPN的操作流程如下：下载客户端，完成账号注册，选择节点进行连接，即可享受加速服务。</p>\n        </section>\n        <section id=\"plans\">\n            <h2>选择您的套餐</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>什么是魔戒VPN？</summary>\n                魔戒VPN是一款安全稳定的网络加速工具，为用户提供优质的互联网服务体验。\n            </details>\n            <details>\n                <summary>如何订阅魔戒VPN？</summary>\n                您可以按照提示完成注册和支付，即可订阅适合您的套餐。\n            </details>\n            <details>\n                <summary>魔戒VPN支持哪些设备？</summary>\n                魔戒VPN支持Windows、macOS、iOS、Android 等主流设备平台。\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                通过在客户端中选择合适的节点连接，即可解锁相应地区的流媒体内容。\n            </details>\n            <details>\n                <summary>套餐有年付选项吗？</summary>\n                是的，部分套餐支持年付，年付价格更优惠。\n            </details>\n        </section>\n        <section>\n            <h2>合作伙伴</h2>\n            {{CLIENTS_HTML}}\n        </section>\n    </main>\n    <footer>\n        <p>© 2024 魔戒VPN 保留所有权利</p>\n    </footer>\n\n",
+          "hash": "a663e652aaff755091a7e5fc57427bb90fb464359ff64554465365f1351ffabc",
+          "seo": {
+            "title": "魔戒 VPN | 机场订阅 | 网络加速 | 客户端下载",
+            "keywords": "魔戒,魔戒VPN,机场,订阅,VPN,网络加速,客户端下载",
+            "description": "魔戒VPN提供优质高速网络加速服务，稳定可靠，支持多设备在线，立即访问官网客户端下载体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nrvprlo.cn",
+    "host": "web.nrvprlo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "nrvprlo.cn",
+      "url": "https://nrvprlo.cn/",
+      "label": "西数(WestData)",
+      "apex": "nrvprlo.cn",
+      "kind": null,
+      "identity": "wfcywcta/page-8bac50e4ef26a4f3f28cee51"
+    },
+    {
+      "host": "999ew.cn",
+      "url": "https://999ew.cn/",
+      "label": "魔戒",
+      "apex": "999ew.cn",
+      "kind": null,
+      "identity": "vxspeg9bv/page-0b84603d0eb599eaf789f1cd"
+    },
+    {
+      "host": "bggdjp.cn",
+      "url": "https://bggdjp.cn/",
+      "label": "魔戒",
+      "apex": "bggdjp.cn",
+      "kind": null,
+      "identity": "pwk8xwvp/page-6c4e6880f26af3a8a6cfcca5"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "18acad258d439b89c4d8a30818b71fec2c32c33114f430ca18862a2772bf0a46",
+    "sitemap.xml": "2895a33d826a2af6ea4e80a18e7e7b0707122c408505bf9ff285ebf106b45cfc",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "39cf9b21755c36e792ba0f177efa5536cd311bf741f02d364d4dd289594d259c",
+    "robots.txt": "9fde1e73c107d15d90db5b3a8db180c99a11a5e4454d115aa3f2688692e9c836",
+    "6988f9c4db9c8699c06684ad6b79f6bb.txt": "8027849574b23f05e419ad2f7b872a40ac3cea9bd42ff4feb9c993cd5d86732b"
+  },
+  "revision": "6ed2b81a02a8351802063aab6748d7b80ca493f3249a7411c905531acf1a3b9f"
+}
